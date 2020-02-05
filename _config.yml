@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jicheng Li / Jicheng Li's Webseit"
+title                    : "Jicheng Li / Jicheng Li's Website"
 title_separator          : "-"
 name                     : &name "Jicheng LI"
 description              : &description "Ph.D. student at HCI lab, University of Delaware"
