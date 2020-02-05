@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jicheng Li / Jicheng Li's Website"
+title                    : "Jicheng Li/Jicheng Li's Website"
 title_separator          : "-"
-name                     : &name "Jicheng LI"
+name                     : &name "Jicheng Li"
 description              : &description "Ph.D. student at HCI lab, University of Delaware"
 url                      : https://lijicheng1006.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
