@@ -7,11 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Your Name / Site Title"
-title                    : "Jicheng Li"
-#title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+title                    : "Jicheng Li / Jicheng Li's Webseit"
+title_separator          : "-"
+name                     : &name "Jicheng LI"
+description              : &description "Ph.D. student at HCI lab, University of Delaware"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
