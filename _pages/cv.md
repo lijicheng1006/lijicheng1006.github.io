@@ -14,7 +14,7 @@ Education
 * B.E. in Electrical Engineering, Harbin Institute of Technology, 2015
 * M.S. in Electrical Engineering, Northeastern University, 2016
 * M.S. in Computer Science, Michigan State University, 2019
-* Ph.D in Computer Science, University of Delaware. 
+* Ph.D in Computer Science, University of Delaware. 2019 - Current <br/>
   Advisor: Roghayeh Barmaki
 
 Work experience
@@ -46,19 +46,21 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
