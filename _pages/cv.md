@@ -14,7 +14,7 @@ Education
 * B.E. in Electrical Engineering, Harbin Institute of Technology, 2015
 * M.S. in Electrical Engineering, Northeastern University, 2016
 * M.S. in Computer Science, Michigan State University, 2019
-* Ph.D in Computer Science, University of Delaware
+* Ph.D in Computer Science, University of Delaware. Advisor: 
 
 Work experience
 ======
@@ -37,12 +37,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C/C++, MATLAB
+* Libraries/Tools: PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, OpenCL, LATEX.
 
 Publications
 ======
