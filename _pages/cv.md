@@ -39,7 +39,7 @@ Work experience
 Skills
 ======
 * Programming: Python, C/C++, MATLAB
-* Libraries/Tools: PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, OpenCL, LATEX.
+* Libraries/Tools: PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, OpenCL, LATEX
 
 Publications
 ======
@@ -47,12 +47,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+**Patent**
+======
+* Bluetooth module based access control system and access control method thereof
+  * An innovative access control method of controlling a mechanical lock via MCU and mobile phone 
+  * Publication number: CN103295303B
 <!--  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+
 
 Teaching
 ======
