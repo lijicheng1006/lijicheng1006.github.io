@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-*This is Jicheng Li's homepage!*
+This is Jicheng Li's homepage!
 
-*Thank you for visiting!*
+Thank you for visiting!
 
-*I'm currently a first-year Ph.D. student at University of Delaware, Human-Computer Interaction lab.*
+I'm currently a first-year Ph.D. student at University of Delaware, Human-Computer Interaction lab.
 
-*My advisor is Roghayeh Barmaki.*
+My main research area is multi-modality machine learning.
 
-*My main research area is multi-modality machine learning.*
+Dr. Roghayeh Barmaki is my advisor.
 
-*I love music, sprots and movies.*
+I love music, sprots and movies.
 
-*I have a cat and a chinchilla as my pets.*
+I have a cat and a chinchilla as my pets.
 
