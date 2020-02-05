@@ -51,7 +51,7 @@ Publications
 ======
 * Bluetooth module based access control system and access control method thereof
   * An innovative access control method of controlling a mechanical lock via MCU and mobile phone 
-  * Publication number: CN103295303B <\br>
+  * Publication number: CN103295303B 
 
 <!--  
 Talks
