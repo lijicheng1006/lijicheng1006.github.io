@@ -14,7 +14,8 @@ Education
 * B.E. in Electrical Engineering, Harbin Institute of Technology, 2015
 * M.S. in Electrical Engineering, Northeastern University, 2016
 * M.S. in Computer Science, Michigan State University, 2019
-* Ph.D in Computer Science, University of Delaware. Advisor: Roghayeh Barmaki
+* Ph.D in Computer Science, University of Delaware. 
+  Advisor: Roghayeh Barmaki
 
 Work experience
 ======
