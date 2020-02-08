@@ -1,7 +1,7 @@
 ---
 title: "An ε Constrained Biogeography-Based Optimization with Dynamic Migration"
 collection: publications
-permalink: /publication/2014-03-01-Optimization
+permalink: /publication/2014-Optimization
 excerpt: 'A new ε constrained biogeography-based optimization with dynamic migration, εBBO-dm, is proposed to solve constrained optimization problems.'
 date: 2014-03-01
 venue: 'Journal of Computer Research and Development'
