@@ -17,11 +17,12 @@ Education
 * M.S. in Electrical Engineering, Northeastern University, 2016
 * B.E. in Electrical Engineering, Harbin Institute of Technology, 2015
 
-**Professional Honors And Awards**
+Professional Honors And Awards
+======
 * Michigan State University Graduate Office Fellowship, 2017
 * Meritorious Winner at Science and Technology Innovation Contest, Harbin Institue of Technology, 2013 – 2014
 
-**Patent**
+Patent
 ======
 * Bluetooth module based access control system and access control method thereof
   * An innovative access control method of controlling a mechanical lock via MCU and mobile phone 
