@@ -20,5 +20,5 @@ Dr. Roghayeh Barmaki is my advisor.
 
 I love music, sprots and movies.
 
-I have a cat and a chinchilla as my pets.
+I have a cat and a chinchilla.
 
