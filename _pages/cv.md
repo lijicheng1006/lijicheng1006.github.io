@@ -17,25 +17,10 @@ Education
 * M.S. in Electrical Engineering, Northeastern University, 2016
 * B.E. in Electrical Engineering, Harbin Institute of Technology, 2015
 
-Professional Honors And Awards
+Skills
 ======
-* CIS Distinguished Graduate Student Award, University of Delaware, 2020 – 2022
-* Graduate Block Stipend Fellowship, University of Delaware, 2021
-* Graduate Office Fellowship, Michigan State University, 2017
-* Meritorious Winner at Science and Technology Innovation Contest, Harbin Institute of Technology, 2014
-
-
-Patent
-======
-* Bluetooth module based access control system and access control method thereof
-  * An innovative access control method of controlling a mechanical lock via MCU and mobile phone 
-  * Publication number: CN103295303B 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages: Python, Java, C++, MATLAB, SQL, R, Bash
+* Libraries/Tools: PyTorch, TensorFlow, Keras, Sklearn, NumPy, SciPy, OpenCV, Pandas, OpenCL, AWS, Git, FFmpeg, LATEX
 
 Experience
 ======
@@ -56,12 +41,30 @@ Experience
   * Deployed the application on both PC and Android platforms, ensuring widespread accessibility and usability
   * Performed debugging, testing, and version updates to ensure smooth operation and integration of new features
 
-
-  
-Skills
+Publications
 ======
-* Programming: Python, C/C++, MATLAB
-* Libraries/Tools: PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, OpenCL, LATEX
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Professional Honors And Awards
+======
+* CIS Distinguished Graduate Student Award, University of Delaware, 2020 – 2022
+* Graduate Block Stipend Fellowship, University of Delaware, 2021
+* Graduate Office Fellowship, Michigan State University, 2017
+* Meritorious Winner at Science and Technology Innovation Contest, Harbin Institute of Technology, 2014
+
+Patent
+======
+* Bluetooth module based access control system and access control method thereof
+  * An innovative access control method of controlling a mechanical lock via MCU and mobile phone 
+  * Publication number: CN103295303B 
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 <!--  
@@ -69,12 +72,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Service and leadership
