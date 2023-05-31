@@ -47,6 +47,21 @@ Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
+Publications
+======
+* Vuthea,C., Li, J., et al., Towards Medical Anatomy Education with Generative AI-based Virtual Assistant in Immersive Virtual Reality Environments, under review
+* Vuthea,C., Li, J., et al., An Immersive VR Training Environment with Robotics for Upper Extremity Rehabilitation, under review
+* Li, J., et al., Advancements in Face Misalignment Evaluation for Contact-less Vital Sign Detection, under review
+* Li, J., et al., MMASD: A Multimodal Dataset for Autism Intervention Analysis, under review
+* Guo, Z., Li, J., et al., Social Visual Behavior Analytics for Autism Therapy of Children Based on Automated Mutual Gaze Detection, IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, 2023
+* Li, J., et al., Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer, International Conference on Multimodal Interaction, 2022 (Oral)
+* Li, J., et al., Dyadic Movement Synchrony Estimation Under Privacy-preserving Conditions, International Conference on Pattern Recognition, 2022
+* Li, J., et al., Improving the Movement Synchrony Estimation with Action Quality Assessment in Children Play Therapy, International Conference on Multimodal Interaction, 2021
+* Li, J., et al., A Two-stage Multi-modal Affect Analysis Framework for Children with Autism Spectrum Disorder, AAAI Workshop on Affective Content Analysis, 2021
+* Bi, X., Li, J., et al., Constrained Optimization based on ε Constrained Biogeography-Based Optimization with Dynamic Migration, Journal of Computer Research and Development, 2014
+
+  
+
 Professional Honors And Awards
 ======
 * CIS Distinguished Graduate Student Award, University of Delaware, 2020 – 2022
