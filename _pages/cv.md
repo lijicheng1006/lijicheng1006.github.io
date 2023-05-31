@@ -60,11 +60,15 @@ Patent
   * An innovative access control method of controlling a mechanical lock via MCU and mobile phone 
   * Publication number: CN103295303B 
 
-Teaching
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant, University of Delaware, Sep 2019 – Present
+  * CISC 474 Advanced Web Technologies
+  * CISC 681 Artificial Intelligence
+  * CISC 682 Human-Computer Interaction
+
+* Teaching Assistant, Michigan State University, Sep 2017 – May 2018   
+  * CSE 232 C++ Programming
 
 
 <!--  
@@ -74,6 +78,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
