@@ -41,11 +41,11 @@ Experience
   * Deployed the application on both PC and Android platforms, ensuring widespread accessibility and usability
   * Performed debugging, testing, and version updates to ensure smooth operation and integration of new features
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Professional Honors And Awards
 ======
@@ -69,6 +69,13 @@ Teaching Experience
 
 * Teaching Assistant, Michigan State University, Sep 2017 – May 2018   
   * CSE 232 C++ Programming
+
+Membership
+======
+*	Association for the Advancement of Artificial Intelligence, 2021 – Present
+* Association for Computing Machinery, 2021 – Present
+
+
 
 
 <!--  
