@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jicheng Li / Jicheng Li's Website"
+title                    : "Jicheng Li's Website"
 title_separator          : "-"
 name                     : &name "Jicheng Li"
-description              : &description "Ph.D. student at HCI lab, University of Delaware"
+description              : &description "Ph.D. candidate in Computer Science, University of Delaware"
 url                      : https://Li-Jicheng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Li-Jicheng.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jicheng Li"
   avatar           : "me.jpeg"
-  bio              : "Ph.D. student at University of Delaware, HCI Lab"
-  location         : "Newark, DE"
+  bio              : "Ph.D. candidate at University of Delaware, HCI Lab"
+  location         : "Newark, DE, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=PPrE9ioAAAAJ&hl=en"
   email            : "lijichen@udel.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/jicheng-li-079337136/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
