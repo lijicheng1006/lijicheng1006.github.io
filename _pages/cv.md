@@ -31,7 +31,7 @@ Experience
   *	Designed a novel skeleton-based, uncertainty-aware Transformer Network to assess action quality while being robust to pose detection failures, demonstrating state-of-the-art performance on synchrony score prediction with a decrease in mean square error by 53.8% on the TASD-2 dataset
   *	Proposed an innovative two-stage affect states recognition framework that integrates facial expressions and acoustic cues, effectively leveraging the synergy between human expertise and machine intelligence
 
-** Research Intern, Samsung Research America (Digital Health), Jan 2023 – Mar 2023
+* Research Intern, Samsung Research America (Digital Health), Jan 2023 – Mar 2023
   * Developed an innovative evaluation metric to assess facial alignment in remote vital sign detection, one of the first works to provide comprehensive guidelines for optimal face detector selection in the field
   * Conducted experiments validating a 12.5% reduction in second-level mean absolute error and a 3.5% enhancement in accuracy for remote heart rate estimation by leveraging the superior face detector recommended by our metric
 
