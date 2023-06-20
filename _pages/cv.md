@@ -49,8 +49,10 @@ Experience
 
 Publications
 ======
-* Vuthea,C., Li, J., et al., Towards Medical Anatomy Education with Generative AI-based Virtual Assistant in Immersive Virtual Reality Environments, under review
-* Vuthea,C., Li, J., et al., An Immersive VR Training Environment with Robotics for Upper Extremity Rehabilitation, under review
+* Vuthea,C., Li, J., et al., Towards Anatomy Education with Generative AI-based Virtual Assistants in Immersive
+Virtual Reality Environments, under review
+* Sydney S., Vuthea,C., Li, J., et al., Visual Feedback and Guided Balance Training in the Immersive Virtual Reality
+Environment for Lower Extremity Rehabilitation, under review
 * Li, J., et al., Advancements in Face Misalignment Evaluation for Contact-less Vital Sign Detection, under review
 * Li, J., et al., MMASD: A Multimodal Dataset for Autism Intervention Analysis, under review
 * Guo, Z., Li, J., et al., Social Visual Behavior Analytics for Autism Therapy of Children Based on Automated Mutual Gaze Detection, IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, 2023
