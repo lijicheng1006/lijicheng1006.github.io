@@ -22,8 +22,11 @@ Skills
 * Programming Languages: Python, Java, C++, MATLAB, SQL, R, Bash
 * Libraries/Tools: PyTorch, TensorFlow, Keras, Sklearn, NumPy, SciPy, OpenCV, Pandas, OpenCL, AWS, Git, FFmpeg, LATEX
 
-Experience
+Work Experience
 ======
+* Research Intern, Futurewei Technologies, Inc., Jun 2023 – Present
+  * Developed a deep learning-based system for precise visual-audio facial expression retargeting, prioritizing accurate lip synchronization and realistic talking head/avatar generation
+
 * Research Assistant, University of Delaware, Human-Computer Interaction Lab, Jun 2019 – Present
   * Developed systematic plans for dataset collection, problem definition, and solution development in multidisciplinary research using cutting-edge deep learning techniques for video understanding and human behavior analysis, with a focus on action quality assessment and intervention evaluation
   *	Established a large-scale, multimodal benchmark dataset comprising over 244K frames for behavior evaluation in autism research. Integrated diverse modalities including optical flow, skeleton, gaze, and clinician evaluation scores, one of the first publicly accessible datasets in the field
