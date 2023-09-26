@@ -58,7 +58,7 @@ Virtual Reality Environments, under review
 * Sydney S., Vuthea,C., Li, J., et al., Visual Feedback and Guided Balance Training in the Immersive Virtual Reality
 Environment for Lower Extremity Rehabilitation, under review
 * Li, J., et al., Advancements in Face Misalignment Evaluation for Contact-less Vital Sign Detection, International Conference on Body Sensor Networks: Sensor and Systems for Digital Health, 2023
-* Li, J., et al., MMASD: A Multimodal Dataset for Autism Intervention Analysis, International Conference on Pattern Recognition, 2023
+* Li, J., et al., MMASD: A Multimodal Dataset for Autism Intervention Analysis, International Conference on Multimodal Interaction, 2023
 * Guo, Z., Li, J., et al., Social Visual Behavior Analytics for Autism Therapy of Children Based on Automated Mutual Gaze Detection, IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, 2023
 * Li, J., et al., Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer, International Conference on Multimodal Interaction, 2022 (Oral)
 * Li, J., et al., Dyadic Movement Synchrony Estimation Under Privacy-preserving Conditions, International Conference on Pattern Recognition, 2022
