@@ -37,6 +37,7 @@ Work Experience
 * Research Intern, Samsung Research America (Digital Health), Jan 2023 – Mar 2023
   * Developed an innovative evaluation metric to assess facial alignment in remote vital sign detection, one of the first works to provide comprehensive guidelines for optimal face detector selection in the field
   * Conducted experiments validating a 12.5% reduction in second-level mean absolute error and a 3.5% enhancement in accuracy for remote heart rate estimation by leveraging the superior face detector recommended by our metric
+  * Paper accepted for oral presentation at the International Conference on Body Sensor Networks – Sensors and Systems for Digital Health (IEEE BSN 2023)
 
 * Machine Learning Engineer, GENISAMA LLC, Jan 2017 – Aug 201
   * Developed optimized GPU kernels using OpenCL to accelerate the training and inference time of neural networks
@@ -52,12 +53,12 @@ Work Experience
 
 Publications
 ======
-* Vuthea,C., Li, J., et al., Towards Anatomy Education with Generative AI-based Virtual Assistants in Immersive
+* Roghayeh,B., Li, J., et al., Towards Anatomy Education with Generative AI-based Virtual Assistants in Immersive
 Virtual Reality Environments, under review
 * Sydney S., Vuthea,C., Li, J., et al., Visual Feedback and Guided Balance Training in the Immersive Virtual Reality
 Environment for Lower Extremity Rehabilitation, under review
-* Li, J., et al., Advancements in Face Misalignment Evaluation for Contact-less Vital Sign Detection, under review
-* Li, J., et al., MMASD: A Multimodal Dataset for Autism Intervention Analysis, under review
+* Li, J., et al., Advancements in Face Misalignment Evaluation for Contact-less Vital Sign Detection, International Conference on Body Sensor Networks: Sensor and Systems for Digital Health, 2023
+* Li, J., et al., MMASD: A Multimodal Dataset for Autism Intervention Analysis, International Conference on Pattern Recognition, 2023
 * Guo, Z., Li, J., et al., Social Visual Behavior Analytics for Autism Therapy of Children Based on Automated Mutual Gaze Detection, IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, 2023
 * Li, J., et al., Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer, International Conference on Multimodal Interaction, 2022 (Oral)
 * Li, J., et al., Dyadic Movement Synchrony Estimation Under Privacy-preserving Conditions, International Conference on Pattern Recognition, 2022
